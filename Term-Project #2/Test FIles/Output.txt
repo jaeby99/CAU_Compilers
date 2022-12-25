@@ -1,0 +1,8 @@
+          Symbol Table
+       Type            ID
+        int              a
+        int              foo
+        int              a
+        int              b
+
+    Input file has no Lexical && Syntax Error    

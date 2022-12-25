@@ -1,0 +1,43 @@
+dVariable Type				INT(int)|CHAR(char)
+Signed integer				(-|e)(0|1|2|3|4|5|6|7|8|9)*
+Literal string				" {(a~z)|0~9|WHITESPACE}* "
+Identifier					(a~z){(a~z)|(0~9)}*
+Keyword					If(if)|ELSE(else)|WHILE(while)|RETURN(return)
+Arithmetic Operator			+|-|*|/
+Assignment Operator			=
+Comparison Operator			<|>|==|!=|<=|>=|
+Terminating Symbol			;
+area/scope symbol				{ }
+indicating symbol				( )
+Separating symbol				,
+Whitespace				\t|\n|
+NO COMMENTS
+
+
+Keyword					INT(int)|CHAR(char)|If(if)|ELSE(else)|WHILE(while)|RETURN(return)
+Operators					+|-|*|/|=
+Comparison				<|>|==|!=|<=|>=
+Integer					(-|e)(0|1|2|3|4|5|6|7|8|9)+
+Identifiers					(a~z){(a~z)|(0~9)}*
+Literal String				" {(a~z)|0~9|WHITESPACE}* "   
+Symbol					; | { } | ( ) | ,
+Whitespace				(\t|\n)+
+
+NO COMMENTS				//~~~ | /* ~~ */
+
+
+nltk download WordPUncTokenizer(구두점으로 구분)
+
+출력파일 ---> Token / name \n
+
+func(int a)
+ID	func
+Keyword	int
+ID	a
+
+
+
+tokens
+read_file
+Lexer
+main

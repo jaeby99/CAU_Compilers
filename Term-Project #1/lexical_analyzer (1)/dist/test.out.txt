@@ -1,0 +1,70 @@
+      <Lexical Analyzer Table>      
+                                    
+                                    
+      <ELSE>      
+      <ELSE>      
+      <ID, Else >      
+      <ID, else3 >      
+      <VTYPE, CHAR>      
+      <VTYPE, INT>      
+      <INTEGER, 3 >      
+      <ID, inta >      
+      <ID, int3 >      
+      <OP, - >      
+      <INTEGER, 0 >      
+      <INTEGER, 0 >      
+      <INTEGER, -123 >      
+      <INTEGER, 123 >      
+      <INTEGER, 0 >      
+      <ID, abc0 >      
+      <ID, Ab987 >      
+      <STRING, Hellow world 2nd >      
+      <ID, a >      
+      <ASSIGN>      
+      <INTEGER, 7 >      
+      <ID, a >      
+      <COMPARE>      
+      <ID, b >      
+      <ID, a >      
+      <EQUAL>      
+      <INTEGER, 8 >      
+      <ID, a >      
+      <NOTEQUAL>      
+      <INTEGER, 9 >      
+      <ID, a >      
+      <OP, - >      
+      <ID, b >      
+      <ID, a >      
+      <OP, - >      
+      <INTEGER, 4 >      
+      <ID, a >      
+      <OP, - >      
+      <INTEGER, -5 >      
+      <ID, a >      
+      <ASSIGN>      
+      <INTEGER, -6 >      
+      <VTYPE, INT>      
+      <ID, main >      
+      <LPAREN>      
+      <RPAREN>      
+      <LBRACE>      
+      <VTYPE, CHAR>      
+      <ID, if123 >      
+      <ASSIGN>      
+      <STRING, 1 >      
+      <SEMI>      
+      <VTYPE, INT>      
+      <INTEGER, 0 >      
+      <ID, a >      
+      <ASSIGN>      
+      <ID, a >      
+      <OP, + >      
+      <INTEGER, -1 >      
+      <SEMI>      
+      <RETURN>      
+      <OP, - >      
+      <INTEGER, 0 >      
+      <SEMI>      
+      <RBRACE>      
+      <ID, abc >      
+      error detacted at 189th character      
